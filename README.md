@@ -1,4 +1,4 @@
-# Conteúdo do README.md para o repositório anhaguera-portal-intercambio-cultural
+#repositório anhaguera-portal-intercambio-cultural
 
 readme_content = """
 # 🎓 Portal de Intercâmbio Nacional – Universidades Brasileiras
